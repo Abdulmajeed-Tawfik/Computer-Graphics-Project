@@ -1,2 +1,1 @@
-# Computer-Graphics-Project
-Robot Garage Servce 
+# Robot Garage Service | Computer Graphics Project
